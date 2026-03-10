@@ -16,11 +16,11 @@ terraform plan
 terraform apply
 
 ### File structure
-''' 
+``` 
 terraform-k8s/
 ├── providers.tf
 ├── variables.tf
 ├── main.tf
 ├── outputs.tf
 └── terraform.tfvars
-''' 
+``` 
